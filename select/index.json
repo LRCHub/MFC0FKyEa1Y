@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "wimp ft. Lil' Fang (from FAKY)（feat. Lil' Fang）",
+  "base_artist": "BACK-ON",
+  "createdAt": "2026-01-05T20:43:46.951488Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "wimp ft. Lil' Fang (from FAKY) (feat. Lil' Fang)",
+      "artist": "BACK-ON",
+      "has_synced": true,
+      "path": "select/01_wimp_ft._Lil'_Fang_(from_FAKY)_(feat._Lil'_Fang)_BACK-ON.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "wimp ft. Lil' Fang (from FAKY)",
+      "artist": "BACK-ON",
+      "has_synced": false,
+      "path": "select/pl_01_wimp_ft._Lil'_Fang_(from_FAKY)_BACK-ON.txt"
+    }
+  ]
+}
